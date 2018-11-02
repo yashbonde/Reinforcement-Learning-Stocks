@@ -9,3 +9,11 @@ Tensorflow is the major library that we are using to make and run our deep learn
 
 ## Files
 Download the .zip for this repo, and run the command `python3 skeleton_stock_dqn.py`. This is the most basic file for beginners to understand what the code does. There is also a blog [here]() that explains the code per line. There are more files in the repo, and can be run with same commands. 
+
+## Models
+For now I have trained three simple models, DQN, Double DQN, Dueling DQN and also uploaded the skeleton code for those. You can go through it for improvements.
+
+## Vision
+To make DQN models capable of handling three various aspects of stock markets, to buy or not to buy (already achieved), how much to buy (more tricky, still doable) and what to buy (AI requires a strong knowledge background here). Working on how much to buy.
+
+The bucket method looks promising for now.
